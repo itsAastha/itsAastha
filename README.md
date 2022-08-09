@@ -1,8 +1,22 @@
-Hi there I am Aastha 👋
-I am a BTech Fresher at MSRIT, Bangalore!
-🔭 I’m currently working on projects based on  Web Development, Python and flutter.
+<p align="center">
+<img  src="https://gulpanra.com/wp-content/uploads/2016/02/header-1.png" width=1000 height=200  alt="Hero image">
+</p>
 
-📚 I am currently learning anything and everything that I can. Exploring finance and designing right now.
+## About me:
+I am a BTech fresher at MS Ramaiah institute of technology, Bengaluru, India.<br/>
+I'm currently working on web development and UI/UX projects.<br/>
+I'm also exploring web3 technologies and Finance.<br/>
 
-🏆 I am new to open soure and love contributing to open source organisations !
+Looking forward to making lots of open source contributions ❤.
+
+
+
+-  ♀️   Pronouns: She/Her
+- 📜 I Love coding and gaming.💜
+
+<br/>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+<br/>
 
